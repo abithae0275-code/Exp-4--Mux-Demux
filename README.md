@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddcad8bf-0b64-42e5-b9be-40e16fb4f63d" /># Exp-4-Mux-Demux
+
 # Design and Verification of 2:1 Multiplexer and 1:2 Demultiplexer
 ## Aim
 To design and verify a 2:1 Multiplexer and a 1:2 Demultiplexer using Verilog HDL.
